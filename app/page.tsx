@@ -1,10 +1,10 @@
-import HomePage from "./components/HomePage";
+import LandingPage from "./components/Hero/LandingPage";
 
 
 export default function Home() {
   return (
     <main>
-    <HomePage/>
+    <LandingPage/>
     </main>
   );
 }

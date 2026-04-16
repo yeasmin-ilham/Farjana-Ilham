@@ -1,7 +1,7 @@
 import Image from "next/image"
 
 
-export default function HomePage(){
+export default function LandingPage(){
     return(
       <div>
           <section className="min-h-screen max-w-7xl mx-auto bg-white ">
