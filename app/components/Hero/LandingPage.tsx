@@ -4,7 +4,7 @@ import Image from "next/image"
 export default function LandingPage(){
     return(
       <div>
-          <section className="min-h-screen max-w-7xl mx-auto bg-white ">
+          <section>
 
         <nav className="flex items-center justify-between px-8 py-2 bg-gray-100 relative z-30 backdrop-blur-2xl">
         <span className="text-[15px] font-bold text-primary tracking-[0.18em] uppercase">Tisso Vison</span>
